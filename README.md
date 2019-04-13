@@ -21,7 +21,7 @@
 
 <br>
 
-<a href="https://github.com/The-SourceCode/Open-SourceBot">
+<a href="https://github.com/JustMiss11/SkyBot">
     <img src="https://img.shields.io/github/package-json/v/The-SourceCode/Open-SourceBot.svg?colorB=Orange&style=for-the-badge" alt="Version">
 </a>
 
