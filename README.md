@@ -26,7 +26,7 @@
 </a>
 
 <a href="https://github.com/The-SourceCode/Open-SourceBot/issues">
-    <img src="https://img.shields.io/github/issues/The-SourceCode/Open-SourceBot.svg?style=for-the-badge&colorB=37f149" alt="Issues">
+    <img src="https://img.shields.io/github/issues/JustMiss11/Open-SourceBot.svg?style=for-the-badge&colorB=37f149" alt="Issues">
 </a>
 
 <a href="https://github.com/The-SourceCode/Open-SourceBot/pulls">
